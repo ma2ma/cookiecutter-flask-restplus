@@ -1,5 +1,5 @@
 flask
-flask-restful
+flask-restplus
 flask-migrate
 flask-sqlalchemy
 flask-marshmallow

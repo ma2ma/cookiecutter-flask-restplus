@@ -10,7 +10,7 @@ setup(
     install_requires=[
         'flask',
         'flask-sqlalchemy',
-        'flask-restful',
+        'flask-restplus',
         'flask-migrate',
         'flask-jwt-extended',
         'flask-marshmallow',
