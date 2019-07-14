@@ -1,10 +1,10 @@
-# cookiecutter-flask-restful
+# cookiecutter-flask-restplus
 
-Cookiecutter template for flask restful, including blueprints, application factory, and more
+Cookiecutter template for flask restful api by flask-restplus, including blueprints, application factory, and more
 
 ## Introduction
 
-This cookie cutter is a very simple boilerplate for starting a REST api using Flask, flask-restful, marshmallow, SQLAlchemy and jwt.
+This cookie cutter is a very simple boilerplate for starting a REST api using Flask, flask-restplus, marshmallow, SQLAlchemy and jwt.
 It comes with basic project structure and configuration, including blueprints, application factory and basics unit tests.
 
 Features
@@ -21,7 +21,7 @@ Features
 Used packages :
 
 * [Flask](http://flask.pocoo.org/)
-* [Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/)
+* [Flask-RESTPlus](https://flask-restplus.readthedocs.io/en/latest/)
 * [Flask-Migrate](https://flask-migrate.readthedocs.io/en/latest/)
 * [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.3/)
 * [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io/en/latest/)
